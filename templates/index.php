@@ -1,3 +1,4 @@
+// Простой шаблон, изменяемая часть шаблона index.php. Файлы top.php и bottom.php - это не изменяемые части
 require_once ("templates/top.php");
     if (!_GET['id']{
         $file = (int)$_GET['id'];
